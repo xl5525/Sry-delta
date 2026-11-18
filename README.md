@@ -29,6 +29,5 @@ data/
 
 For insulation, the default `REBUILD_FROM_MAPS = False` uses saved matrices. Set it to `True` to reproduce scores and matrices from the supplied balanced 400 bp maps and peak BEDs. Fig. 4 requires 100 bp and 200 bp map resolutions. Map and interval coordinates must use the same assembly and compatible chromosome names.
 
-Input datasets are not included in these copies. Before publication, provide public data accessions/download instructions for both maps, peak and motif BEDs, boundary intervals and ChIP bigWigs. The exact input filenames are retained for provenance. See notebook documentation for calculation details and balancing-QC considerations.
 
 
